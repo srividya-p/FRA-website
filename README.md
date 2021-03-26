@@ -1,6 +1,8 @@
 # FRA-website
 A website built using Node.js, Express.js and ejs to access attendance records inputted by the Raspberry Pi Face Recognition System <br>(https://github.com/srividya-p/Face-Recognition-Attendance)
 
+## Deployed - http://face-rec-attendance.herokuapp.com/
+
 # Installation
 
 **1. Clone the Repo by going to your local Git Client and running the command:**</br>
